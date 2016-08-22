@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+=======
+{
+	"preset": "jquery",
+
+	"excludeFiles": [ "external", "src/intro.js", "src/outro.js",
+		"test/node_smoke_tests/lib/ensure_iterability.js" ]
+}
+>>>>>>> origin/master
